@@ -46,7 +46,7 @@ Un botón abre `https://wa.me/50377985997` con un mensaje que incluye el nombre 
 - Una carta escrita a mano con buenos deseos para 2027.
 - Presupuesto **sugerido**: USD 15–20 para mantener regalos semejantes.
 - Presentación en caja de cartón forrada con papel navideño, con el nombre completo del niño.
-- Fecha límite de entrega a coordinación: **13 de diciembre de 2026**.
+- Fecha límite de entrega a coordinación: **6 de diciembre de 2026**.
 - Fiesta de entrega a los niños: **19 de diciembre de 2026**.
 
 ## Datos pendientes
