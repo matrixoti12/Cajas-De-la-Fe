@@ -10,7 +10,7 @@ const CHILDREN = [
   {id:'melani', name:'Melani Alexa Pérez Méndez', age:10, likes:'Osos de peluche', shirt:'10', shoes:'Por confirmar', image:'assets/melani.webp'},
   {id:'asley', name:'Asley Gissell Pérez Méndez', age:12, likes:'Carteras, ropa y accesorios', shirt:'12', shoes:'37', image:'assets/asley.webp'},
   {id:'daniela', name:'Daniela Elizabeth Flores', age:7, likes:'Peluches', shirt:'8', shoes:'30', image:'assets/daniela.webp'},
-  {id:'lucia', name:'Lucía Abigail Portillo', age:10, likes:'Peluches', shirt:'12', shoes:'36', image:null}
+  {id:'lucia', name:'Lucía Abigail Portillo', age:10, likes:'Peluches', shirt:'12', shoes:'36', image:'assets/lucia.webp'}
 ];
 const cfg = window.CAJAS_CONFIG || {};
 const whatsapp = /^\d{8,16}$/.test(cfg.whatsapp||'') ? cfg.whatsapp : '50377985997';

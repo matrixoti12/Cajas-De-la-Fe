@@ -51,7 +51,6 @@ Un botón abre `https://wa.me/50377985997` con un mensaje que incluye el nombre 
 
 ## Datos pendientes
 
-- La fotografía de Lucía Abigail aún no se proporcionó: la web muestra una ficha de reserva visual (sin foto).
 - La talla de zapatos de Melani está **por confirmar**.
 - La talla `5` de zapatos de Darlin requiere aclarar el sistema de tallaje.
 - Verificar las fichas de todos los niños antes de compartir el enlace públicamente.

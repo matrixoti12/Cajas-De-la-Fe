@@ -16,7 +16,7 @@ Los enlaces de imágenes y recursos son relativos para funcionar bajo la ruta de
 - Apariencia y ajustes de celular: `styles.css`.
 
 El sitio incluye 10 fichas; la meta de la campaña es de 20 niños.
-Lucía tiene una ficha sin fotografía. Las tallas pendientes se indican en cada ficha.
+Las 10 fichas incluyen fotografía. Las tallas pendientes se indican en cada ficha.
 Consultar por WhatsApp no reserva ni confirma un apadrinamiento.
 
 Consulta [LEEME.md](LEEME.md) para la guía completa de configuración y operación.
